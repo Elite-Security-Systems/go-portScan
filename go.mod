@@ -3,7 +3,7 @@ module github.com/Elite-Security-Systems/go-portScan
 go 1.18
 
 require (
-	github.com/XinRoom/iprange v1.1.4
+	github.com/Elite-Security-Systems/iprange v1.1.4
 	github.com/go-ping/ping v1.1.0
 	github.com/google/gopacket v1.1.19
 	github.com/jackpal/gateway v1.0.7
