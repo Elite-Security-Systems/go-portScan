@@ -1,9 +1,9 @@
 package tcp
 
 import (
-	"github.com/XinRoom/go-portScan/core/host"
-	"github.com/XinRoom/go-portScan/core/port"
-	"github.com/XinRoom/iprange"
+	"github.com/Elite-Security-Systems/go-portScan/core/host"
+	"github.com/Elite-Security-Systems/go-portScan/core/port"
+	"github.com/Elite-Security-Systems/iprange"
 	"github.com/panjf2000/ants/v2"
 	"log"
 	"net"
