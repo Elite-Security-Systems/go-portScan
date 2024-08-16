@@ -5,7 +5,7 @@ import (
 	"crypto/tls"
 	"errors"
 	"fmt"
-	"github.com/XinRoom/go-portScan/util/iputil"
+	"github.com/Elite-Security-Systems/go-portScan/util/iputil"
 	"net"
 	"regexp"
 	"strconv"
