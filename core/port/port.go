@@ -3,7 +3,7 @@ package port
 import (
 	"errors"
 	"fmt"
-	"github.com/XinRoom/go-portScan/util"
+	"github.com/Elite-Security-Systems/go-portScan/util"
 	"net"
 	"strconv"
 	"strings"
