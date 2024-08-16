@@ -1,4 +1,4 @@
-module github.com/XinRoom/go-portScan
+module github.com/Elite-Security-Systems/go-portScan
 
 go 1.18
 
