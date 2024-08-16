@@ -3,7 +3,7 @@
 package syn
 
 import (
-	"github.com/XinRoom/go-portScan/core/port"
+	"github.com/Elite-Security-Systems/go-portScan/core/port"
 	"sync"
 	"time"
 )
